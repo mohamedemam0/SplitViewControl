@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+  </ReferenceAssemblyList>
+  <XamlSourceFileDataList>
+    <XamlSourceFileData XamlFileName="App.xaml" XamlFileTimeAtLastCompileInTicks="635643693952693008" ClassFullName="SplitViewControl.App" />
+    <XamlSourceFileData XamlFileName="BasicPage1.xaml" XamlFileTimeAtLastCompileInTicks="635644442506452239" ClassFullName="SplitViewControl.BasicPage1" />
+    <XamlSourceFileData XamlFileName="MainPage.xaml" XamlFileTimeAtLastCompileInTicks="635646468441105807" ClassFullName="SplitViewControl.MainPage" />
+    <XamlSourceFileData XamlFileName="Styles\ColorTemplates.xaml" XamlFileTimeAtLastCompileInTicks="635646445018992721" ClassFullName="" />
+    <XamlSourceFileData XamlFileName="Styles\SettingsStyle.xaml" XamlFileTimeAtLastCompileInTicks="635646445019479007" ClassFullName="" />
+    <XamlSourceFileData XamlFileName="Styles\SplitViewStyles.xaml" XamlFileTimeAtLastCompileInTicks="635646470197142663" ClassFullName="" />
+  </XamlSourceFileDataList>
+</XamlCompilerSaveState>

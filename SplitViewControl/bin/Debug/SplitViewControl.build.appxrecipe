@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ba6af2e9-179e-4ed4-b603-ab1abfb7cda9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\SplitViewControl.exe">
+      <PackagePath>SplitViewControl.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\packages\Microsoft.ApplicationInsights.RuntimeTelemetry.0.13.0-build26067\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\packages\Microsoft.ApplicationInsights.WindowsStore.0.13.0-build26067\lib\win81\Microsoft.ApplicationInsights.Extensibility.Windows.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\packages\Microsoft.ApplicationInsights.0.13.0-build26067\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.winmd">
+      <PackagePath>Microsoft.ApplicationInsights.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\packages\Microsoft.Diagnostics.Tracing.EventSource.Redist.1.1.14-beta\build\portable-net45+win8+wpa81\..\..\lib\net45\Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <PackagePath>Microsoft.Diagnostics.Tracing.EventSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\obj\Debug\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\Styles\ColorTemplates.xbf">
+      <PackagePath>Styles\ColorTemplates.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\Styles\SettingsStyle.xbf">
+      <PackagePath>Styles\SettingsStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\Styles\SplitViewStyles.xbf">
+      <PackagePath>Styles\SplitViewStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\SplitViewControl.xr.xml">
+      <PackagePath>SplitViewControl.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\SplitViewControl\SplitViewControl\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
